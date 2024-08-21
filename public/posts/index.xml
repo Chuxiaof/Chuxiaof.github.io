@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Heidi</title>
+    <link>https://heidi.github.io/posts/</link>
+    <description>Recent content in Posts on Heidi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 21 Aug 2024 21:42:52 +0800</lastBuildDate>
+    <atom:link href="https://heidi.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>test post</title>
+      <link>https://heidi.github.io/posts/first_post/</link>
+      <pubDate>Wed, 21 Aug 2024 21:42:52 +0800</pubDate>
+      <guid>https://heidi.github.io/posts/first_post/</guid>
+      <description>This is some content.
+fn main() { println!(&amp;#34;Hello, Heidi!&amp;#34;); } </description>
+    </item>
+  </channel>
+</rss>

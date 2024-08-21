@@ -1,0 +1,4 @@
+baseURL = 'https://Chuxiaof.github.io/'
+languageCode = 'en-us'
+title = 'Chuxiao Feng'
+theme = "ivy"
